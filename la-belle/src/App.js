@@ -1,8 +1,9 @@
+import SelectCategory from "./components/SelectCategory";
 
 function App() {
   return (
     <div className="App">
-      <p>Início</p>
+      <SelectCategory />
     </div>
   );
 }
