@@ -1,4 +1,4 @@
-import SelectCategory from "./components/SelectCategory";
+import SelectCategory from "./routes/Categories";
 
 function App() {
   return (
